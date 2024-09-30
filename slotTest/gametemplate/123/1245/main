@@ -1,0 +1,53 @@
+package main
+
+import (
+	"encoding/json"
+	"fmt"
+
+	"github.com/adimax2953/Shared/pb/slot/game"
+	LogTool "github.com/adimax2953/log-tool"
+	"github.com/adimax2953/slot-math/gamelogic"
+)
+
+var host, password, port, poolSize = "103.103.81.12", "Taijc@888", 6382, 200
+var opt = gamelogic.RedisOption{
+	Host:          host,
+	Password:      password,
+	Port:          port,
+	PoolSize:      poolSize,
+	UseLocalCache: false,
+}
+var csvPath = "D:\\Golang\\src\\github.com\\death12358\\mySlot\\slotTest\\datas"
+var mock_game *gamelogic.Games
+var err error
+
+func init() {
+	mock_game, err = gamelogic.NewGames("40C", opt, csvPath)
+	if err != nil {
+		LogTool.LogErrorf("NewGames ERR", "%v", err)
+	}
+}
+
+// ONE SPIN
+func main() {
+	var spinRequest = &game.SlotGameRequest{
+		PlayerInfo: &game.PlayerInfo{
+			PlayerID:   1,
+			CountryID:  2,
+			VendorID:   3,
+			PlatformID: 4,
+		},
+		BetInfo: &game.BetInfo{
+			Bet: 55},
+		GameRequestTriggerType: 0,
+	}
+	round, err := mock_game.Spin(spinRequest)
+	if err != nil {
+		fmt.Printf("Spin error: %s", err.Error())
+	}
+	j_round, err := json.Marshal(round)
+	if err != nil {
+		fmt.Printf("Marshal error: %s", err.Error())
+	}
+	fmt.Println(string(j_round))
+}

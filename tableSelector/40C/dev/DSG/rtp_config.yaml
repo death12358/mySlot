@@ -1,0 +1,1809 @@
+limit_config:   
+  "test":
+    base_bet : 100
+    sys_rtp_limit_enabled : false
+    sys_rtp_limit : 35000
+    monthly_sys_loss_limit_enabled : true
+    monthly_sys_loss_limit : 200000
+    daily_sys_loss_limit_enabled : false
+    daily_sys_loss_limit : 200000
+    daily_player_profit_limit_enabled : false
+    daily_player_profit_limit : 123
+    monthly_player_profit_limit_enabled : false
+    monthly_player_profit_limit : 789
+    monthly_player_rtp_lower_limit_enabled : false
+    monthly_player_rtp_lower_limit: 7000
+
+  "DSG:BRL:control:100":
+    base_bet : 100
+    sys_rtp_limit_enabled : false
+    sys_rtp_limit : 35000
+    monthly_sys_loss_limit_enabled : true
+    monthly_sys_loss_limit : 200000
+    daily_sys_loss_limit_enabled : false
+    daily_sys_loss_limit : 200000
+    daily_player_profit_limit_enabled : false
+    daily_player_profit_limit : 123
+    monthly_player_profit_limit_enabled : false
+    monthly_player_profit_limit : 789
+    monthly_player_rtp_lower_limit_enabled : false
+    monthly_player_rtp_lower_limit: 7000
+
+  "DSG:BRL:control:200":
+    base_bet : 200
+    sys_rtp_limit_enabled : false
+    sys_rtp_limit : 35000
+    monthly_sys_loss_limit_enabled : true
+    monthly_sys_loss_limit : 400000
+    daily_sys_loss_limit_enabled : false
+    daily_sys_loss_limit : 400000
+    daily_player_profit_limit_enabled : false
+    daily_player_profit_limit : 123
+    monthly_player_profit_limit_enabled : false
+    monthly_player_profit_limit : 789
+    monthly_player_rtp_lower_limit_enabled : false
+    monthly_player_rtp_lower_limit: 7000
+
+
+  "DSG:BRL:control:300":
+    base_bet : 300
+    sys_rtp_limit_enabled : false
+    sys_rtp_limit : 35000
+    monthly_sys_loss_limit_enabled : true
+    monthly_sys_loss_limit : 600000
+    daily_sys_loss_limit_enabled : false
+    daily_sys_loss_limit : 600000
+    daily_player_profit_limit_enabled : false
+    daily_player_profit_limit : 123
+    monthly_player_profit_limit_enabled : false
+    monthly_player_profit_limit : 789
+    monthly_player_rtp_lower_limit_enabled : false
+    monthly_player_rtp_lower_limit: 7000
+
+
+  "DSG:BRL:control:400":
+    base_bet : 400
+    sys_rtp_limit_enabled : false
+    sys_rtp_limit : 35000
+    monthly_sys_loss_limit_enabled : true
+    monthly_sys_loss_limit : 800000
+    daily_sys_loss_limit_enabled : false
+    daily_sys_loss_limit : 800000
+    daily_player_profit_limit_enabled : false
+    daily_player_profit_limit : 123
+    monthly_player_profit_limit_enabled : false
+    monthly_player_profit_limit : 789
+    monthly_player_rtp_lower_limit_enabled : false
+    monthly_player_rtp_lower_limit: 7000
+
+
+  "DSG:BRL:control:500":
+    base_bet : 500
+    sys_rtp_limit_enabled : false
+    sys_rtp_limit : 35000
+    monthly_sys_loss_limit_enabled : true
+    monthly_sys_loss_limit : 1000000
+    daily_sys_loss_limit_enabled : false
+    daily_sys_loss_limit : 1000000
+    daily_player_profit_limit_enabled : false
+    daily_player_profit_limit : 123
+    monthly_player_profit_limit_enabled : false
+    monthly_player_profit_limit : 789
+    monthly_player_rtp_lower_limit_enabled : false
+    monthly_player_rtp_lower_limit: 7000
+
+
+  "DSG:BRL:control:600":
+    base_bet : 600
+    sys_rtp_limit_enabled : false
+    sys_rtp_limit : 35000
+    monthly_sys_loss_limit_enabled : true
+    monthly_sys_loss_limit : 1200000
+    daily_sys_loss_limit_enabled : false
+    daily_sys_loss_limit : 1200000
+    daily_player_profit_limit_enabled : false
+    daily_player_profit_limit : 123
+    monthly_player_profit_limit_enabled : false
+    monthly_player_profit_limit : 789
+    monthly_player_rtp_lower_limit_enabled : false
+    monthly_player_rtp_lower_limit: 7000
+
+
+  "DSG:BRL:control:700":
+    base_bet : 700
+    sys_rtp_limit_enabled : false
+    sys_rtp_limit : 35000
+    monthly_sys_loss_limit_enabled : true
+    monthly_sys_loss_limit : 1400000
+    daily_sys_loss_limit_enabled : false
+    daily_sys_loss_limit : 1400000
+    daily_player_profit_limit_enabled : false
+    daily_player_profit_limit : 123
+    monthly_player_profit_limit_enabled : false
+    monthly_player_profit_limit : 789
+    monthly_player_rtp_lower_limit_enabled : false
+    monthly_player_rtp_lower_limit: 7000
+
+
+  "DSG:BRL:control:800":
+    base_bet : 800
+    sys_rtp_limit_enabled : false
+    sys_rtp_limit : 35000
+    monthly_sys_loss_limit_enabled : true
+    monthly_sys_loss_limit : 1600000
+    daily_sys_loss_limit_enabled : false
+    daily_sys_loss_limit : 1600000
+    daily_player_profit_limit_enabled : false
+    daily_player_profit_limit : 123
+    monthly_player_profit_limit_enabled : false
+    monthly_player_profit_limit : 789
+    monthly_player_rtp_lower_limit_enabled : false
+    monthly_player_rtp_lower_limit: 7000
+
+
+  "DSG:BRL:control:900":
+    base_bet : 900
+    sys_rtp_limit_enabled : false
+    sys_rtp_limit : 35000
+    monthly_sys_loss_limit_enabled : true
+    monthly_sys_loss_limit : 1800000
+    daily_sys_loss_limit_enabled : false
+    daily_sys_loss_limit : 1800000
+    daily_player_profit_limit_enabled : false
+    daily_player_profit_limit : 123
+    monthly_player_profit_limit_enabled : false
+    monthly_player_profit_limit : 789
+    monthly_player_rtp_lower_limit_enabled : false
+    monthly_player_rtp_lower_limit: 7000
+
+
+  "DSG:BRL:control:1000":
+    base_bet : 1000
+    sys_rtp_limit_enabled : false
+    sys_rtp_limit : 35000
+    monthly_sys_loss_limit_enabled : true
+    monthly_sys_loss_limit : 2000000
+    daily_sys_loss_limit_enabled : false
+    daily_sys_loss_limit : 2000000
+    daily_player_profit_limit_enabled : false
+    daily_player_profit_limit : 123
+    monthly_player_profit_limit_enabled : false
+    monthly_player_profit_limit : 789
+    monthly_player_rtp_lower_limit_enabled : false
+    monthly_player_rtp_lower_limit: 7000
+
+
+  "DSG:BRL:control:2000":
+    base_bet : 2000
+    sys_rtp_limit_enabled : false
+    sys_rtp_limit : 35000
+    monthly_sys_loss_limit_enabled : true
+    monthly_sys_loss_limit : 4000000
+    daily_sys_loss_limit_enabled : false
+    daily_sys_loss_limit : 4000000
+    daily_player_profit_limit_enabled : false
+    daily_player_profit_limit : 123
+    monthly_player_profit_limit_enabled : false
+    monthly_player_profit_limit : 789
+    monthly_player_rtp_lower_limit_enabled : false
+    monthly_player_rtp_lower_limit: 7000
+
+
+  "DSG:BRL:control:3000":
+    base_bet : 3000
+    sys_rtp_limit_enabled : false
+    sys_rtp_limit : 35000
+    monthly_sys_loss_limit_enabled : true
+    monthly_sys_loss_limit : 6000000
+    daily_sys_loss_limit_enabled : false
+    daily_sys_loss_limit : 6000000
+    daily_player_profit_limit_enabled : false
+    daily_player_profit_limit : 123
+    monthly_player_profit_limit_enabled : false
+    monthly_player_profit_limit : 789
+    monthly_player_rtp_lower_limit_enabled : false
+    monthly_player_rtp_lower_limit: 7000
+
+
+  "DSG:BRL:control:4000":
+    base_bet : 4000
+    sys_rtp_limit_enabled : false
+    sys_rtp_limit : 35000
+    monthly_sys_loss_limit_enabled : true
+    monthly_sys_loss_limit : 8000000
+    daily_sys_loss_limit_enabled : false
+    daily_sys_loss_limit : 8000000
+    daily_player_profit_limit_enabled : false
+    daily_player_profit_limit : 123
+    monthly_player_profit_limit_enabled : false
+    monthly_player_profit_limit : 789
+    monthly_player_rtp_lower_limit_enabled : false
+    monthly_player_rtp_lower_limit: 7000
+
+
+  "DSG:BRL:control:5000":
+    base_bet : 5000
+    sys_rtp_limit_enabled : false
+    sys_rtp_limit : 35000
+    monthly_sys_loss_limit_enabled : true
+    monthly_sys_loss_limit : 10000000
+    daily_sys_loss_limit_enabled : false
+    daily_sys_loss_limit : 10000000
+    daily_player_profit_limit_enabled : false
+    daily_player_profit_limit : 123
+    monthly_player_profit_limit_enabled : false
+    monthly_player_profit_limit : 789
+    monthly_player_rtp_lower_limit_enabled : false
+    monthly_player_rtp_lower_limit: 7000
+
+
+  "DSG:BRL:control:6000":
+    base_bet : 6000
+    sys_rtp_limit_enabled : false
+    sys_rtp_limit : 35000
+    monthly_sys_loss_limit_enabled : true
+    monthly_sys_loss_limit : 12000000
+    daily_sys_loss_limit_enabled : false
+    daily_sys_loss_limit : 12000000
+    daily_player_profit_limit_enabled : false
+    daily_player_profit_limit : 123
+    monthly_player_profit_limit_enabled : false
+    monthly_player_profit_limit : 789
+    monthly_player_rtp_lower_limit_enabled : false
+    monthly_player_rtp_lower_limit: 7000
+
+
+  "DSG:BRL:control:7000":
+    base_bet : 7000
+    sys_rtp_limit_enabled : false
+    sys_rtp_limit : 35000
+    monthly_sys_loss_limit_enabled : true
+    monthly_sys_loss_limit : 14000000
+    daily_sys_loss_limit_enabled : false
+    daily_sys_loss_limit : 14000000
+    daily_player_profit_limit_enabled : false
+    daily_player_profit_limit : 123
+    monthly_player_profit_limit_enabled : false
+    monthly_player_profit_limit : 789
+    monthly_player_rtp_lower_limit_enabled : false
+    monthly_player_rtp_lower_limit: 7000
+
+
+  "DSG:BRL:control:8000":
+    base_bet : 8000
+    sys_rtp_limit_enabled : false
+    sys_rtp_limit : 35000
+    monthly_sys_loss_limit_enabled : true
+    monthly_sys_loss_limit : 16000000
+    daily_sys_loss_limit_enabled : false
+    daily_sys_loss_limit : 16000000
+    daily_player_profit_limit_enabled : false
+    daily_player_profit_limit : 123
+    monthly_player_profit_limit_enabled : false
+    monthly_player_profit_limit : 789
+    monthly_player_rtp_lower_limit_enabled : false
+    monthly_player_rtp_lower_limit: 7000
+
+
+  "DSG:BRL:control:9000":
+    base_bet : 9000
+    sys_rtp_limit_enabled : false
+    sys_rtp_limit : 35000
+    monthly_sys_loss_limit_enabled : true
+    monthly_sys_loss_limit : 18000000
+    daily_sys_loss_limit_enabled : false
+    daily_sys_loss_limit : 18000000
+    daily_player_profit_limit_enabled : false
+    daily_player_profit_limit : 123
+    monthly_player_profit_limit_enabled : false
+    monthly_player_profit_limit : 789
+    monthly_player_rtp_lower_limit_enabled : false
+    monthly_player_rtp_lower_limit: 7000
+
+
+  "DSG:BRL:control:10000":
+    base_bet : 10000
+    sys_rtp_limit_enabled : false
+    sys_rtp_limit : 35000
+    monthly_sys_loss_limit_enabled : true
+    monthly_sys_loss_limit : 20000000
+    daily_sys_loss_limit_enabled : false
+    daily_sys_loss_limit : 20000000
+    daily_player_profit_limit_enabled : false
+    daily_player_profit_limit : 123
+    monthly_player_profit_limit_enabled : false
+    monthly_player_profit_limit : 789
+    monthly_player_rtp_lower_limit_enabled : false
+    monthly_player_rtp_lower_limit: 7000
+
+
+  "DSG:BRL:control:20000":
+    base_bet : 20000
+    sys_rtp_limit_enabled : false
+    sys_rtp_limit : 35000
+    monthly_sys_loss_limit_enabled : true
+    monthly_sys_loss_limit : 40000000
+    daily_sys_loss_limit_enabled : false
+    daily_sys_loss_limit : 40000000
+    daily_player_profit_limit_enabled : false
+    daily_player_profit_limit : 123
+    monthly_player_profit_limit_enabled : false
+    monthly_player_profit_limit : 789
+    monthly_player_rtp_lower_limit_enabled : false
+    monthly_player_rtp_lower_limit: 7000
+
+
+  "DSG:BRL:control:30000":
+    base_bet : 30000
+    sys_rtp_limit_enabled : false
+    sys_rtp_limit : 35000
+    monthly_sys_loss_limit_enabled : true
+    monthly_sys_loss_limit : 60000000
+    daily_sys_loss_limit_enabled : false
+    daily_sys_loss_limit : 60000000
+    daily_player_profit_limit_enabled : false
+    daily_player_profit_limit : 123
+    monthly_player_profit_limit_enabled : false
+    monthly_player_profit_limit : 789
+    monthly_player_rtp_lower_limit_enabled : false
+    monthly_player_rtp_lower_limit: 7000
+
+
+  "DSG:BRL:control:40000":
+    base_bet : 40000
+    sys_rtp_limit_enabled : false
+    sys_rtp_limit : 35000
+    monthly_sys_loss_limit_enabled : true
+    monthly_sys_loss_limit : 80000000
+    daily_sys_loss_limit_enabled : false
+    daily_sys_loss_limit : 80000000
+    daily_player_profit_limit_enabled : false
+    daily_player_profit_limit : 123
+    monthly_player_profit_limit_enabled : false
+    monthly_player_profit_limit : 789
+    monthly_player_rtp_lower_limit_enabled : false
+    monthly_player_rtp_lower_limit: 7000
+
+
+  "DSG:BRL:control:50000":
+    base_bet : 50000
+    sys_rtp_limit_enabled : false
+    sys_rtp_limit : 35000
+    monthly_sys_loss_limit_enabled : true
+    monthly_sys_loss_limit : 100000000
+    daily_sys_loss_limit_enabled : false
+    daily_sys_loss_limit : 100000000
+    daily_player_profit_limit_enabled : false
+    daily_player_profit_limit : 123
+    monthly_player_profit_limit_enabled : false
+    monthly_player_profit_limit : 789
+    monthly_player_rtp_lower_limit_enabled : false
+    monthly_player_rtp_lower_limit: 7000
+
+
+  "DSG:BRL:control:60000":
+    base_bet : 60000
+    sys_rtp_limit_enabled : false
+    sys_rtp_limit : 35000
+    monthly_sys_loss_limit_enabled : true
+    monthly_sys_loss_limit : 120000000
+    daily_sys_loss_limit_enabled : false
+    daily_sys_loss_limit : 120000000
+    daily_player_profit_limit_enabled : false
+    daily_player_profit_limit : 123
+    monthly_player_profit_limit_enabled : false
+    monthly_player_profit_limit : 789
+    monthly_player_rtp_lower_limit_enabled : false
+    monthly_player_rtp_lower_limit: 7000
+
+
+  "DSG:BRL:control:70000":
+    base_bet : 70000
+    sys_rtp_limit_enabled : false
+    sys_rtp_limit : 35000
+    monthly_sys_loss_limit_enabled : true
+    monthly_sys_loss_limit : 140000000
+    daily_sys_loss_limit_enabled : false
+    daily_sys_loss_limit : 140000000
+    daily_player_profit_limit_enabled : false
+    daily_player_profit_limit : 123
+    monthly_player_profit_limit_enabled : false
+    monthly_player_profit_limit : 789
+    monthly_player_rtp_lower_limit_enabled : false
+    monthly_player_rtp_lower_limit: 7000
+
+
+  "DSG:BRL:control:80000":
+    base_bet : 80000
+    sys_rtp_limit_enabled : false
+    sys_rtp_limit : 35000
+    monthly_sys_loss_limit_enabled : true
+    monthly_sys_loss_limit : 160000000
+    daily_sys_loss_limit_enabled : false
+    daily_sys_loss_limit : 160000000
+    daily_player_profit_limit_enabled : false
+    daily_player_profit_limit : 123
+    monthly_player_profit_limit_enabled : false
+    monthly_player_profit_limit : 789
+    monthly_player_rtp_lower_limit_enabled : false
+    monthly_player_rtp_lower_limit: 7000
+
+
+  "DSG:BRL:control:90000":
+    base_bet : 90000
+    sys_rtp_limit_enabled : false
+    sys_rtp_limit : 35000
+    monthly_sys_loss_limit_enabled : true
+    monthly_sys_loss_limit : 180000000
+    daily_sys_loss_limit_enabled : false
+    daily_sys_loss_limit : 180000000
+    daily_player_profit_limit_enabled : false
+    daily_player_profit_limit : 123
+    monthly_player_profit_limit_enabled : false
+    monthly_player_profit_limit : 789
+    monthly_player_rtp_lower_limit_enabled : false
+    monthly_player_rtp_lower_limit: 7000
+
+
+  "DSG:BRL:control:100000":
+    base_bet : 100000
+    sys_rtp_limit_enabled : false
+    sys_rtp_limit : 35000
+    monthly_sys_loss_limit_enabled : true
+    monthly_sys_loss_limit : 200000000
+    daily_sys_loss_limit_enabled : false
+    daily_sys_loss_limit : 200000000
+    daily_player_profit_limit_enabled : false
+    daily_player_profit_limit : 123
+    monthly_player_profit_limit_enabled : false
+    monthly_player_profit_limit : 789
+    monthly_player_rtp_lower_limit_enabled : false
+    monthly_player_rtp_lower_limit: 7000
+
+
+  "DSG:BRL:nature:100":
+    base_bet : 100
+    sys_rtp_limit_enabled : false
+    sys_rtp_limit : 35000
+    monthly_sys_loss_limit_enabled : false
+    monthly_sys_loss_limit : 200000
+    daily_sys_loss_limit_enabled : false
+    daily_sys_loss_limit : 200000
+    daily_player_profit_limit_enabled : false
+    daily_player_profit_limit : 123
+    monthly_player_profit_limit_enabled : false
+    monthly_player_profit_limit : 789
+    monthly_player_rtp_lower_limit_enabled : false
+    monthly_player_rtp_lower_limit: 7000
+
+
+  "DSG:BRL:nature:200":
+    base_bet : 200
+    sys_rtp_limit_enabled : false
+    sys_rtp_limit : 35000
+    monthly_sys_loss_limit_enabled : false
+    monthly_sys_loss_limit : 400000
+    daily_sys_loss_limit_enabled : false
+    daily_sys_loss_limit : 400000
+    daily_player_profit_limit_enabled : false
+    daily_player_profit_limit : 123
+    monthly_player_profit_limit_enabled : false
+    monthly_player_profit_limit : 789
+    monthly_player_rtp_lower_limit_enabled : false
+    monthly_player_rtp_lower_limit: 7000
+
+
+  "DSG:BRL:nature:300":
+    base_bet : 300
+    sys_rtp_limit_enabled : false
+    sys_rtp_limit : 35000
+    monthly_sys_loss_limit_enabled : false
+    monthly_sys_loss_limit : 600000
+    daily_sys_loss_limit_enabled : false
+    daily_sys_loss_limit : 600000
+    daily_player_profit_limit_enabled : false
+    daily_player_profit_limit : 123
+    monthly_player_profit_limit_enabled : false
+    monthly_player_profit_limit : 789
+    monthly_player_rtp_lower_limit_enabled : false
+    monthly_player_rtp_lower_limit: 7000
+
+
+  "DSG:BRL:nature:400":
+    base_bet : 400
+    sys_rtp_limit_enabled : false
+    sys_rtp_limit : 35000
+    monthly_sys_loss_limit_enabled : false
+    monthly_sys_loss_limit : 800000
+    daily_sys_loss_limit_enabled : false
+    daily_sys_loss_limit : 800000
+    daily_player_profit_limit_enabled : false
+    daily_player_profit_limit : 123
+    monthly_player_profit_limit_enabled : false
+    monthly_player_profit_limit : 789
+    monthly_player_rtp_lower_limit_enabled : false
+    monthly_player_rtp_lower_limit: 7000
+
+
+  "DSG:BRL:nature:500":
+    base_bet : 500
+    sys_rtp_limit_enabled : false
+    sys_rtp_limit : 35000
+    monthly_sys_loss_limit_enabled : false
+    monthly_sys_loss_limit : 1000000
+    daily_sys_loss_limit_enabled : false
+    daily_sys_loss_limit : 1000000
+    daily_player_profit_limit_enabled : false
+    daily_player_profit_limit : 123
+    monthly_player_profit_limit_enabled : false
+    monthly_player_profit_limit : 789
+    monthly_player_rtp_lower_limit_enabled : false
+    monthly_player_rtp_lower_limit: 7000
+
+
+  "DSG:BRL:nature:600":
+    base_bet : 600
+    sys_rtp_limit_enabled : false
+    sys_rtp_limit : 35000
+    monthly_sys_loss_limit_enabled : false
+    monthly_sys_loss_limit : 1200000
+    daily_sys_loss_limit_enabled : false
+    daily_sys_loss_limit : 1200000
+    daily_player_profit_limit_enabled : false
+    daily_player_profit_limit : 123
+    monthly_player_profit_limit_enabled : false
+    monthly_player_profit_limit : 789
+    monthly_player_rtp_lower_limit_enabled : false
+    monthly_player_rtp_lower_limit: 7000
+
+
+  "DSG:BRL:nature:700":
+    base_bet : 700
+    sys_rtp_limit_enabled : false
+    sys_rtp_limit : 35000
+    monthly_sys_loss_limit_enabled : false
+    monthly_sys_loss_limit : 1400000
+    daily_sys_loss_limit_enabled : false
+    daily_sys_loss_limit : 1400000
+    daily_player_profit_limit_enabled : false
+    daily_player_profit_limit : 123
+    monthly_player_profit_limit_enabled : false
+    monthly_player_profit_limit : 789
+    monthly_player_rtp_lower_limit_enabled : false
+    monthly_player_rtp_lower_limit: 7000
+
+
+  "DSG:BRL:nature:800":
+    base_bet : 800
+    sys_rtp_limit_enabled : false
+    sys_rtp_limit : 35000
+    monthly_sys_loss_limit_enabled : false
+    monthly_sys_loss_limit : 1600000
+    daily_sys_loss_limit_enabled : false
+    daily_sys_loss_limit : 1600000
+    daily_player_profit_limit_enabled : false
+    daily_player_profit_limit : 123
+    monthly_player_profit_limit_enabled : false
+    monthly_player_profit_limit : 789
+    monthly_player_rtp_lower_limit_enabled : false
+    monthly_player_rtp_lower_limit: 7000
+
+
+  "DSG:BRL:nature:900":
+    base_bet : 900
+    sys_rtp_limit_enabled : false
+    sys_rtp_limit : 35000
+    monthly_sys_loss_limit_enabled : false
+    monthly_sys_loss_limit : 1800000
+    daily_sys_loss_limit_enabled : false
+    daily_sys_loss_limit : 1800000
+    daily_player_profit_limit_enabled : false
+    daily_player_profit_limit : 123
+    monthly_player_profit_limit_enabled : false
+    monthly_player_profit_limit : 789
+    monthly_player_rtp_lower_limit_enabled : false
+    monthly_player_rtp_lower_limit: 7000
+
+
+  "DSG:BRL:nature:1000":
+    base_bet : 1000
+    sys_rtp_limit_enabled : false
+    sys_rtp_limit : 35000
+    monthly_sys_loss_limit_enabled : false
+    monthly_sys_loss_limit : 2000000
+    daily_sys_loss_limit_enabled : false
+    daily_sys_loss_limit : 2000000
+    daily_player_profit_limit_enabled : false
+    daily_player_profit_limit : 123
+    monthly_player_profit_limit_enabled : false
+    monthly_player_profit_limit : 789
+    monthly_player_rtp_lower_limit_enabled : false
+    monthly_player_rtp_lower_limit: 7000
+
+
+  "DSG:BRL:nature:2000":
+    base_bet : 2000
+    sys_rtp_limit_enabled : false
+    sys_rtp_limit : 35000
+    monthly_sys_loss_limit_enabled : false
+    monthly_sys_loss_limit : 4000000
+    daily_sys_loss_limit_enabled : false
+    daily_sys_loss_limit : 4000000
+    daily_player_profit_limit_enabled : false
+    daily_player_profit_limit : 123
+    monthly_player_profit_limit_enabled : false
+    monthly_player_profit_limit : 789
+    monthly_player_rtp_lower_limit_enabled : false
+    monthly_player_rtp_lower_limit: 7000
+
+
+  "DSG:BRL:nature:3000":
+    base_bet : 3000
+    sys_rtp_limit_enabled : false
+    sys_rtp_limit : 35000
+    monthly_sys_loss_limit_enabled : false
+    monthly_sys_loss_limit : 6000000
+    daily_sys_loss_limit_enabled : false
+    daily_sys_loss_limit : 6000000
+    daily_player_profit_limit_enabled : false
+    daily_player_profit_limit : 123
+    monthly_player_profit_limit_enabled : false
+    monthly_player_profit_limit : 789
+    monthly_player_rtp_lower_limit_enabled : false
+    monthly_player_rtp_lower_limit: 7000
+
+
+  "DSG:BRL:nature:4000":
+    base_bet : 4000
+    sys_rtp_limit_enabled : false
+    sys_rtp_limit : 35000
+    monthly_sys_loss_limit_enabled : false
+    monthly_sys_loss_limit : 8000000
+    daily_sys_loss_limit_enabled : false
+    daily_sys_loss_limit : 8000000
+    daily_player_profit_limit_enabled : false
+    daily_player_profit_limit : 123
+    monthly_player_profit_limit_enabled : false
+    monthly_player_profit_limit : 789
+    monthly_player_rtp_lower_limit_enabled : false
+    monthly_player_rtp_lower_limit: 7000
+
+
+  "DSG:BRL:nature:5000":
+    base_bet : 5000
+    sys_rtp_limit_enabled : false
+    sys_rtp_limit : 35000
+    monthly_sys_loss_limit_enabled : false
+    monthly_sys_loss_limit : 10000000
+    daily_sys_loss_limit_enabled : false
+    daily_sys_loss_limit : 10000000
+    daily_player_profit_limit_enabled : false
+    daily_player_profit_limit : 123
+    monthly_player_profit_limit_enabled : false
+    monthly_player_profit_limit : 789
+    monthly_player_rtp_lower_limit_enabled : false
+    monthly_player_rtp_lower_limit: 7000
+
+
+  "DSG:BRL:nature:6000":
+    base_bet : 6000
+    sys_rtp_limit_enabled : false
+    sys_rtp_limit : 35000
+    monthly_sys_loss_limit_enabled : false
+    monthly_sys_loss_limit : 12000000
+    daily_sys_loss_limit_enabled : false
+    daily_sys_loss_limit : 12000000
+    daily_player_profit_limit_enabled : false
+    daily_player_profit_limit : 123
+    monthly_player_profit_limit_enabled : false
+    monthly_player_profit_limit : 789
+    monthly_player_rtp_lower_limit_enabled : false
+    monthly_player_rtp_lower_limit: 7000
+
+
+  "DSG:BRL:nature:7000":
+    base_bet : 7000
+    sys_rtp_limit_enabled : false
+    sys_rtp_limit : 35000
+    monthly_sys_loss_limit_enabled : false
+    monthly_sys_loss_limit : 14000000
+    daily_sys_loss_limit_enabled : false
+    daily_sys_loss_limit : 14000000
+    daily_player_profit_limit_enabled : false
+    daily_player_profit_limit : 123
+    monthly_player_profit_limit_enabled : false
+    monthly_player_profit_limit : 789
+    monthly_player_rtp_lower_limit_enabled : false
+    monthly_player_rtp_lower_limit: 7000
+
+
+  "DSG:BRL:nature:8000":
+    base_bet : 8000
+    sys_rtp_limit_enabled : false
+    sys_rtp_limit : 35000
+    monthly_sys_loss_limit_enabled : false
+    monthly_sys_loss_limit : 16000000
+    daily_sys_loss_limit_enabled : false
+    daily_sys_loss_limit : 16000000
+    daily_player_profit_limit_enabled : false
+    daily_player_profit_limit : 123
+    monthly_player_profit_limit_enabled : false
+    monthly_player_profit_limit : 789
+    monthly_player_rtp_lower_limit_enabled : false
+    monthly_player_rtp_lower_limit: 7000
+
+
+  "DSG:BRL:nature:9000":
+    base_bet : 9000
+    sys_rtp_limit_enabled : false
+    sys_rtp_limit : 35000
+    monthly_sys_loss_limit_enabled : false
+    monthly_sys_loss_limit : 18000000
+    daily_sys_loss_limit_enabled : false
+    daily_sys_loss_limit : 18000000
+    daily_player_profit_limit_enabled : false
+    daily_player_profit_limit : 123
+    monthly_player_profit_limit_enabled : false
+    monthly_player_profit_limit : 789
+    monthly_player_rtp_lower_limit_enabled : false
+    monthly_player_rtp_lower_limit: 7000
+
+
+  "DSG:BRL:nature:10000":
+    base_bet : 10000
+    sys_rtp_limit_enabled : false
+    sys_rtp_limit : 35000
+    monthly_sys_loss_limit_enabled : false
+    monthly_sys_loss_limit : 20000000
+    daily_sys_loss_limit_enabled : false
+    daily_sys_loss_limit : 20000000
+    daily_player_profit_limit_enabled : false
+    daily_player_profit_limit : 123
+    monthly_player_profit_limit_enabled : false
+    monthly_player_profit_limit : 789
+    monthly_player_rtp_lower_limit_enabled : false
+    monthly_player_rtp_lower_limit: 7000
+
+
+  "DSG:BRL:nature:20000":
+    base_bet : 20000
+    sys_rtp_limit_enabled : false
+    sys_rtp_limit : 35000
+    monthly_sys_loss_limit_enabled : false
+    monthly_sys_loss_limit : 40000000
+    daily_sys_loss_limit_enabled : false
+    daily_sys_loss_limit : 40000000
+    daily_player_profit_limit_enabled : false
+    daily_player_profit_limit : 123
+    monthly_player_profit_limit_enabled : false
+    monthly_player_profit_limit : 789
+    monthly_player_rtp_lower_limit_enabled : false
+    monthly_player_rtp_lower_limit: 7000
+
+
+  "DSG:BRL:nature:30000":
+    base_bet : 30000
+    sys_rtp_limit_enabled : false
+    sys_rtp_limit : 35000
+    monthly_sys_loss_limit_enabled : false
+    monthly_sys_loss_limit : 60000000
+    daily_sys_loss_limit_enabled : false
+    daily_sys_loss_limit : 60000000
+    daily_player_profit_limit_enabled : false
+    daily_player_profit_limit : 123
+    monthly_player_profit_limit_enabled : false
+    monthly_player_profit_limit : 789
+    monthly_player_rtp_lower_limit_enabled : false
+    monthly_player_rtp_lower_limit: 7000
+
+
+  "DSG:BRL:nature:40000":
+    base_bet : 40000
+    sys_rtp_limit_enabled : false
+    sys_rtp_limit : 35000
+    monthly_sys_loss_limit_enabled : false
+    monthly_sys_loss_limit : 80000000
+    daily_sys_loss_limit_enabled : false
+    daily_sys_loss_limit : 80000000
+    daily_player_profit_limit_enabled : false
+    daily_player_profit_limit : 123
+    monthly_player_profit_limit_enabled : false
+    monthly_player_profit_limit : 789
+    monthly_player_rtp_lower_limit_enabled : false
+    monthly_player_rtp_lower_limit: 7000
+
+
+  "DSG:BRL:nature:50000":
+    base_bet : 50000
+    sys_rtp_limit_enabled : false
+    sys_rtp_limit : 35000
+    monthly_sys_loss_limit_enabled : false
+    monthly_sys_loss_limit : 100000000
+    daily_sys_loss_limit_enabled : false
+    daily_sys_loss_limit : 100000000
+    daily_player_profit_limit_enabled : false
+    daily_player_profit_limit : 123
+    monthly_player_profit_limit_enabled : false
+    monthly_player_profit_limit : 789
+    monthly_player_rtp_lower_limit_enabled : false
+    monthly_player_rtp_lower_limit: 7000
+
+
+  "DSG:BRL:nature:60000":
+    base_bet : 60000
+    sys_rtp_limit_enabled : false
+    sys_rtp_limit : 35000
+    monthly_sys_loss_limit_enabled : false
+    monthly_sys_loss_limit : 120000000
+    daily_sys_loss_limit_enabled : false
+    daily_sys_loss_limit : 120000000
+    daily_player_profit_limit_enabled : false
+    daily_player_profit_limit : 123
+    monthly_player_profit_limit_enabled : false
+    monthly_player_profit_limit : 789
+    monthly_player_rtp_lower_limit_enabled : false
+    monthly_player_rtp_lower_limit: 7000
+
+
+  "DSG:BRL:nature:70000":
+    base_bet : 70000
+    sys_rtp_limit_enabled : false
+    sys_rtp_limit : 35000
+    monthly_sys_loss_limit_enabled : false
+    monthly_sys_loss_limit : 140000000
+    daily_sys_loss_limit_enabled : false
+    daily_sys_loss_limit : 140000000
+    daily_player_profit_limit_enabled : false
+    daily_player_profit_limit : 123
+    monthly_player_profit_limit_enabled : false
+    monthly_player_profit_limit : 789
+    monthly_player_rtp_lower_limit_enabled : false
+    monthly_player_rtp_lower_limit: 7000
+
+
+  "DSG:BRL:nature:80000":
+    base_bet : 80000
+    sys_rtp_limit_enabled : false
+    sys_rtp_limit : 35000
+    monthly_sys_loss_limit_enabled : false
+    monthly_sys_loss_limit : 160000000
+    daily_sys_loss_limit_enabled : false
+    daily_sys_loss_limit : 160000000
+    daily_player_profit_limit_enabled : false
+    daily_player_profit_limit : 123
+    monthly_player_profit_limit_enabled : false
+    monthly_player_profit_limit : 789
+    monthly_player_rtp_lower_limit_enabled : false
+    monthly_player_rtp_lower_limit: 7000
+
+
+  "DSG:BRL:nature:90000":
+    base_bet : 90000
+    sys_rtp_limit_enabled : false
+    sys_rtp_limit : 35000
+    monthly_sys_loss_limit_enabled : false
+    monthly_sys_loss_limit : 180000000
+    daily_sys_loss_limit_enabled : false
+    daily_sys_loss_limit : 180000000
+    daily_player_profit_limit_enabled : false
+    daily_player_profit_limit : 123
+    monthly_player_profit_limit_enabled : false
+    monthly_player_profit_limit : 789
+    monthly_player_rtp_lower_limit_enabled : false
+    monthly_player_rtp_lower_limit: 7000
+
+
+  "DSG:BRL:nature:100000":
+    base_bet : 100000
+    sys_rtp_limit_enabled : false
+    sys_rtp_limit : 35000
+    monthly_sys_loss_limit_enabled : false
+    monthly_sys_loss_limit : 200000000
+    daily_sys_loss_limit_enabled : false
+    daily_sys_loss_limit : 200000000
+    daily_player_profit_limit_enabled : false
+    daily_player_profit_limit : 123
+    monthly_player_profit_limit_enabled : false
+    monthly_player_profit_limit : 789
+    monthly_player_rtp_lower_limit_enabled : false
+    monthly_player_rtp_lower_limit: 7000
+
+
+  "DSG:CNY:control:100":
+    base_bet : 100
+    sys_rtp_limit_enabled : false
+    sys_rtp_limit : 35000
+    monthly_sys_loss_limit_enabled : true
+    monthly_sys_loss_limit : 200000
+    daily_sys_loss_limit_enabled : false
+    daily_sys_loss_limit : 200000
+    daily_player_profit_limit_enabled : false
+    daily_player_profit_limit : 123
+    monthly_player_profit_limit_enabled : false
+    monthly_player_profit_limit : 789
+    monthly_player_rtp_lower_limit_enabled : false
+    monthly_player_rtp_lower_limit: 7000
+
+
+  "DSG:CNY:control:200":
+    base_bet : 200
+    sys_rtp_limit_enabled : false
+    sys_rtp_limit : 35000
+    monthly_sys_loss_limit_enabled : true
+    monthly_sys_loss_limit : 400000
+    daily_sys_loss_limit_enabled : false
+    daily_sys_loss_limit : 400000
+    daily_player_profit_limit_enabled : false
+    daily_player_profit_limit : 123
+    monthly_player_profit_limit_enabled : false
+    monthly_player_profit_limit : 789
+    monthly_player_rtp_lower_limit_enabled : false
+    monthly_player_rtp_lower_limit: 7000
+
+
+  "DSG:CNY:control:300":
+    base_bet : 300
+    sys_rtp_limit_enabled : false
+    sys_rtp_limit : 35000
+    monthly_sys_loss_limit_enabled : true
+    monthly_sys_loss_limit : 600000
+    daily_sys_loss_limit_enabled : false
+    daily_sys_loss_limit : 600000
+    daily_player_profit_limit_enabled : false
+    daily_player_profit_limit : 123
+    monthly_player_profit_limit_enabled : false
+    monthly_player_profit_limit : 789
+    monthly_player_rtp_lower_limit_enabled : false
+    monthly_player_rtp_lower_limit: 7000
+
+
+  "DSG:CNY:control:400":
+    base_bet : 400
+    sys_rtp_limit_enabled : false
+    sys_rtp_limit : 35000
+    monthly_sys_loss_limit_enabled : true
+    monthly_sys_loss_limit : 800000
+    daily_sys_loss_limit_enabled : false
+    daily_sys_loss_limit : 800000
+    daily_player_profit_limit_enabled : false
+    daily_player_profit_limit : 123
+    monthly_player_profit_limit_enabled : false
+    monthly_player_profit_limit : 789
+    monthly_player_rtp_lower_limit_enabled : false
+    monthly_player_rtp_lower_limit: 7000
+
+
+  "DSG:CNY:control:500":
+    base_bet : 500
+    sys_rtp_limit_enabled : false
+    sys_rtp_limit : 35000
+    monthly_sys_loss_limit_enabled : true
+    monthly_sys_loss_limit : 1000000
+    daily_sys_loss_limit_enabled : false
+    daily_sys_loss_limit : 1000000
+    daily_player_profit_limit_enabled : false
+    daily_player_profit_limit : 123
+    monthly_player_profit_limit_enabled : false
+    monthly_player_profit_limit : 789
+    monthly_player_rtp_lower_limit_enabled : false
+    monthly_player_rtp_lower_limit: 7000
+
+
+  "DSG:CNY:control:600":
+    base_bet : 600
+    sys_rtp_limit_enabled : false
+    sys_rtp_limit : 35000
+    monthly_sys_loss_limit_enabled : true
+    monthly_sys_loss_limit : 1200000
+    daily_sys_loss_limit_enabled : false
+    daily_sys_loss_limit : 1200000
+    daily_player_profit_limit_enabled : false
+    daily_player_profit_limit : 123
+    monthly_player_profit_limit_enabled : false
+    monthly_player_profit_limit : 789
+    monthly_player_rtp_lower_limit_enabled : false
+    monthly_player_rtp_lower_limit: 7000
+
+
+  "DSG:CNY:control:700":
+    base_bet : 700
+    sys_rtp_limit_enabled : false
+    sys_rtp_limit : 35000
+    monthly_sys_loss_limit_enabled : true
+    monthly_sys_loss_limit : 1400000
+    daily_sys_loss_limit_enabled : false
+    daily_sys_loss_limit : 1400000
+    daily_player_profit_limit_enabled : false
+    daily_player_profit_limit : 123
+    monthly_player_profit_limit_enabled : false
+    monthly_player_profit_limit : 789
+    monthly_player_rtp_lower_limit_enabled : false
+    monthly_player_rtp_lower_limit: 7000
+
+
+  "DSG:CNY:control:800":
+    base_bet : 800
+    sys_rtp_limit_enabled : false
+    sys_rtp_limit : 35000
+    monthly_sys_loss_limit_enabled : true
+    monthly_sys_loss_limit : 1600000
+    daily_sys_loss_limit_enabled : false
+    daily_sys_loss_limit : 1600000
+    daily_player_profit_limit_enabled : false
+    daily_player_profit_limit : 123
+    monthly_player_profit_limit_enabled : false
+    monthly_player_profit_limit : 789
+    monthly_player_rtp_lower_limit_enabled : false
+    monthly_player_rtp_lower_limit: 7000
+
+
+  "DSG:CNY:control:900":
+    base_bet : 900
+    sys_rtp_limit_enabled : false
+    sys_rtp_limit : 35000
+    monthly_sys_loss_limit_enabled : true
+    monthly_sys_loss_limit : 1800000
+    daily_sys_loss_limit_enabled : false
+    daily_sys_loss_limit : 1800000
+    daily_player_profit_limit_enabled : false
+    daily_player_profit_limit : 123
+    monthly_player_profit_limit_enabled : false
+    monthly_player_profit_limit : 789
+    monthly_player_rtp_lower_limit_enabled : false
+    monthly_player_rtp_lower_limit: 7000
+
+
+  "DSG:CNY:control:1000":
+    base_bet : 1000
+    sys_rtp_limit_enabled : false
+    sys_rtp_limit : 35000
+    monthly_sys_loss_limit_enabled : true
+    monthly_sys_loss_limit : 2000000
+    daily_sys_loss_limit_enabled : false
+    daily_sys_loss_limit : 2000000
+    daily_player_profit_limit_enabled : false
+    daily_player_profit_limit : 123
+    monthly_player_profit_limit_enabled : false
+    monthly_player_profit_limit : 789
+    monthly_player_rtp_lower_limit_enabled : false
+    monthly_player_rtp_lower_limit: 7000
+
+
+  "DSG:CNY:control:2000":
+    base_bet : 2000
+    sys_rtp_limit_enabled : false
+    sys_rtp_limit : 35000
+    monthly_sys_loss_limit_enabled : true
+    monthly_sys_loss_limit : 4000000
+    daily_sys_loss_limit_enabled : false
+    daily_sys_loss_limit : 4000000
+    daily_player_profit_limit_enabled : false
+    daily_player_profit_limit : 123
+    monthly_player_profit_limit_enabled : false
+    monthly_player_profit_limit : 789
+    monthly_player_rtp_lower_limit_enabled : false
+    monthly_player_rtp_lower_limit: 7000
+
+
+  "DSG:CNY:control:3000":
+    base_bet : 3000
+    sys_rtp_limit_enabled : false
+    sys_rtp_limit : 35000
+    monthly_sys_loss_limit_enabled : true
+    monthly_sys_loss_limit : 6000000
+    daily_sys_loss_limit_enabled : false
+    daily_sys_loss_limit : 6000000
+    daily_player_profit_limit_enabled : false
+    daily_player_profit_limit : 123
+    monthly_player_profit_limit_enabled : false
+    monthly_player_profit_limit : 789
+    monthly_player_rtp_lower_limit_enabled : false
+    monthly_player_rtp_lower_limit: 7000
+
+
+  "DSG:CNY:control:4000":
+    base_bet : 4000
+    sys_rtp_limit_enabled : false
+    sys_rtp_limit : 35000
+    monthly_sys_loss_limit_enabled : true
+    monthly_sys_loss_limit : 8000000
+    daily_sys_loss_limit_enabled : false
+    daily_sys_loss_limit : 8000000
+    daily_player_profit_limit_enabled : false
+    daily_player_profit_limit : 123
+    monthly_player_profit_limit_enabled : false
+    monthly_player_profit_limit : 789
+    monthly_player_rtp_lower_limit_enabled : false
+    monthly_player_rtp_lower_limit: 7000
+
+
+  "DSG:CNY:control:5000":
+    base_bet : 5000
+    sys_rtp_limit_enabled : false
+    sys_rtp_limit : 35000
+    monthly_sys_loss_limit_enabled : true
+    monthly_sys_loss_limit : 10000000
+    daily_sys_loss_limit_enabled : false
+    daily_sys_loss_limit : 10000000
+    daily_player_profit_limit_enabled : false
+    daily_player_profit_limit : 123
+    monthly_player_profit_limit_enabled : false
+    monthly_player_profit_limit : 789
+    monthly_player_rtp_lower_limit_enabled : false
+    monthly_player_rtp_lower_limit: 7000
+
+
+  "DSG:CNY:control:6000":
+    base_bet : 6000
+    sys_rtp_limit_enabled : false
+    sys_rtp_limit : 35000
+    monthly_sys_loss_limit_enabled : true
+    monthly_sys_loss_limit : 12000000
+    daily_sys_loss_limit_enabled : false
+    daily_sys_loss_limit : 12000000
+    daily_player_profit_limit_enabled : false
+    daily_player_profit_limit : 123
+    monthly_player_profit_limit_enabled : false
+    monthly_player_profit_limit : 789
+    monthly_player_rtp_lower_limit_enabled : false
+    monthly_player_rtp_lower_limit: 7000
+
+
+  "DSG:CNY:control:7000":
+    base_bet : 7000
+    sys_rtp_limit_enabled : false
+    sys_rtp_limit : 35000
+    monthly_sys_loss_limit_enabled : true
+    monthly_sys_loss_limit : 14000000
+    daily_sys_loss_limit_enabled : false
+    daily_sys_loss_limit : 14000000
+    daily_player_profit_limit_enabled : false
+    daily_player_profit_limit : 123
+    monthly_player_profit_limit_enabled : false
+    monthly_player_profit_limit : 789
+    monthly_player_rtp_lower_limit_enabled : false
+    monthly_player_rtp_lower_limit: 7000
+
+
+  "DSG:CNY:control:8000":
+    base_bet : 8000
+    sys_rtp_limit_enabled : false
+    sys_rtp_limit : 35000
+    monthly_sys_loss_limit_enabled : true
+    monthly_sys_loss_limit : 16000000
+    daily_sys_loss_limit_enabled : false
+    daily_sys_loss_limit : 16000000
+    daily_player_profit_limit_enabled : false
+    daily_player_profit_limit : 123
+    monthly_player_profit_limit_enabled : false
+    monthly_player_profit_limit : 789
+    monthly_player_rtp_lower_limit_enabled : false
+    monthly_player_rtp_lower_limit: 7000
+
+
+  "DSG:CNY:control:9000":
+    base_bet : 9000
+    sys_rtp_limit_enabled : false
+    sys_rtp_limit : 35000
+    monthly_sys_loss_limit_enabled : true
+    monthly_sys_loss_limit : 18000000
+    daily_sys_loss_limit_enabled : false
+    daily_sys_loss_limit : 18000000
+    daily_player_profit_limit_enabled : false
+    daily_player_profit_limit : 123
+    monthly_player_profit_limit_enabled : false
+    monthly_player_profit_limit : 789
+    monthly_player_rtp_lower_limit_enabled : false
+    monthly_player_rtp_lower_limit: 7000
+
+
+  "DSG:CNY:control:10000":
+    base_bet : 10000
+    sys_rtp_limit_enabled : false
+    sys_rtp_limit : 35000
+    monthly_sys_loss_limit_enabled : true
+    monthly_sys_loss_limit : 20000000
+    daily_sys_loss_limit_enabled : false
+    daily_sys_loss_limit : 20000000
+    daily_player_profit_limit_enabled : false
+    daily_player_profit_limit : 123
+    monthly_player_profit_limit_enabled : false
+    monthly_player_profit_limit : 789
+    monthly_player_rtp_lower_limit_enabled : false
+    monthly_player_rtp_lower_limit: 7000
+
+
+  "DSG:CNY:control:20000":
+    base_bet : 20000
+    sys_rtp_limit_enabled : false
+    sys_rtp_limit : 35000
+    monthly_sys_loss_limit_enabled : true
+    monthly_sys_loss_limit : 40000000
+    daily_sys_loss_limit_enabled : false
+    daily_sys_loss_limit : 40000000
+    daily_player_profit_limit_enabled : false
+    daily_player_profit_limit : 123
+    monthly_player_profit_limit_enabled : false
+    monthly_player_profit_limit : 789
+    monthly_player_rtp_lower_limit_enabled : false
+    monthly_player_rtp_lower_limit: 7000
+
+
+  "DSG:CNY:control:30000":
+    base_bet : 30000
+    sys_rtp_limit_enabled : false
+    sys_rtp_limit : 35000
+    monthly_sys_loss_limit_enabled : true
+    monthly_sys_loss_limit : 60000000
+    daily_sys_loss_limit_enabled : false
+    daily_sys_loss_limit : 60000000
+    daily_player_profit_limit_enabled : false
+    daily_player_profit_limit : 123
+    monthly_player_profit_limit_enabled : false
+    monthly_player_profit_limit : 789
+    monthly_player_rtp_lower_limit_enabled : false
+    monthly_player_rtp_lower_limit: 7000
+
+
+  "DSG:CNY:control:40000":
+    base_bet : 40000
+    sys_rtp_limit_enabled : false
+    sys_rtp_limit : 35000
+    monthly_sys_loss_limit_enabled : true
+    monthly_sys_loss_limit : 80000000
+    daily_sys_loss_limit_enabled : false
+    daily_sys_loss_limit : 80000000
+    daily_player_profit_limit_enabled : false
+    daily_player_profit_limit : 123
+    monthly_player_profit_limit_enabled : false
+    monthly_player_profit_limit : 789
+    monthly_player_rtp_lower_limit_enabled : false
+    monthly_player_rtp_lower_limit: 7000
+
+
+  "DSG:CNY:control:50000":
+    base_bet : 50000
+    sys_rtp_limit_enabled : false
+    sys_rtp_limit : 35000
+    monthly_sys_loss_limit_enabled : true
+    monthly_sys_loss_limit : 100000000
+    daily_sys_loss_limit_enabled : false
+    daily_sys_loss_limit : 100000000
+    daily_player_profit_limit_enabled : false
+    daily_player_profit_limit : 123
+    monthly_player_profit_limit_enabled : false
+    monthly_player_profit_limit : 789
+    monthly_player_rtp_lower_limit_enabled : false
+    monthly_player_rtp_lower_limit: 7000
+
+
+  "DSG:CNY:control:60000":
+    base_bet : 60000
+    sys_rtp_limit_enabled : false
+    sys_rtp_limit : 35000
+    monthly_sys_loss_limit_enabled : true
+    monthly_sys_loss_limit : 120000000
+    daily_sys_loss_limit_enabled : false
+    daily_sys_loss_limit : 120000000
+    daily_player_profit_limit_enabled : false
+    daily_player_profit_limit : 123
+    monthly_player_profit_limit_enabled : false
+    monthly_player_profit_limit : 789
+    monthly_player_rtp_lower_limit_enabled : false
+    monthly_player_rtp_lower_limit: 7000
+
+
+  "DSG:CNY:control:70000":
+    base_bet : 70000
+    sys_rtp_limit_enabled : false
+    sys_rtp_limit : 35000
+    monthly_sys_loss_limit_enabled : true
+    monthly_sys_loss_limit : 140000000
+    daily_sys_loss_limit_enabled : false
+    daily_sys_loss_limit : 140000000
+    daily_player_profit_limit_enabled : false
+    daily_player_profit_limit : 123
+    monthly_player_profit_limit_enabled : false
+    monthly_player_profit_limit : 789
+    monthly_player_rtp_lower_limit_enabled : false
+    monthly_player_rtp_lower_limit: 7000
+
+
+  "DSG:CNY:control:80000":
+    base_bet : 80000
+    sys_rtp_limit_enabled : false
+    sys_rtp_limit : 35000
+    monthly_sys_loss_limit_enabled : true
+    monthly_sys_loss_limit : 160000000
+    daily_sys_loss_limit_enabled : false
+    daily_sys_loss_limit : 160000000
+    daily_player_profit_limit_enabled : false
+    daily_player_profit_limit : 123
+    monthly_player_profit_limit_enabled : false
+    monthly_player_profit_limit : 789
+    monthly_player_rtp_lower_limit_enabled : false
+    monthly_player_rtp_lower_limit: 7000
+
+
+  "DSG:CNY:control:90000":
+    base_bet : 90000
+    sys_rtp_limit_enabled : false
+    sys_rtp_limit : 35000
+    monthly_sys_loss_limit_enabled : true
+    monthly_sys_loss_limit : 180000000
+    daily_sys_loss_limit_enabled : false
+    daily_sys_loss_limit : 180000000
+    daily_player_profit_limit_enabled : false
+    daily_player_profit_limit : 123
+    monthly_player_profit_limit_enabled : false
+    monthly_player_profit_limit : 789
+    monthly_player_rtp_lower_limit_enabled : false
+    monthly_player_rtp_lower_limit: 7000
+
+
+  "DSG:CNY:control:100000":
+    base_bet : 100000
+    sys_rtp_limit_enabled : false
+    sys_rtp_limit : 35000
+    monthly_sys_loss_limit_enabled : true
+    monthly_sys_loss_limit : 200000000
+    daily_sys_loss_limit_enabled : false
+    daily_sys_loss_limit : 200000000
+    daily_player_profit_limit_enabled : false
+    daily_player_profit_limit : 123
+    monthly_player_profit_limit_enabled : false
+    monthly_player_profit_limit : 789
+    monthly_player_rtp_lower_limit_enabled : false
+    monthly_player_rtp_lower_limit: 7000
+
+
+  "DSG:CNY:nature:100":
+    base_bet : 100
+    sys_rtp_limit_enabled : false
+    sys_rtp_limit : 35000
+    monthly_sys_loss_limit_enabled : false
+    monthly_sys_loss_limit : 200000
+    daily_sys_loss_limit_enabled : false
+    daily_sys_loss_limit : 200000
+    daily_player_profit_limit_enabled : false
+    daily_player_profit_limit : 123
+    monthly_player_profit_limit_enabled : false
+    monthly_player_profit_limit : 789
+    monthly_player_rtp_lower_limit_enabled : false
+    monthly_player_rtp_lower_limit: 7000
+
+
+  "DSG:CNY:nature:200":
+    base_bet : 200
+    sys_rtp_limit_enabled : false
+    sys_rtp_limit : 35000
+    monthly_sys_loss_limit_enabled : false
+    monthly_sys_loss_limit : 400000
+    daily_sys_loss_limit_enabled : false
+    daily_sys_loss_limit : 400000
+    daily_player_profit_limit_enabled : false
+    daily_player_profit_limit : 123
+    monthly_player_profit_limit_enabled : false
+    monthly_player_profit_limit : 789
+    monthly_player_rtp_lower_limit_enabled : false
+    monthly_player_rtp_lower_limit: 7000
+
+
+  "DSG:CNY:nature:300":
+    base_bet : 300
+    sys_rtp_limit_enabled : false
+    sys_rtp_limit : 35000
+    monthly_sys_loss_limit_enabled : false
+    monthly_sys_loss_limit : 600000
+    daily_sys_loss_limit_enabled : false
+    daily_sys_loss_limit : 600000
+    daily_player_profit_limit_enabled : false
+    daily_player_profit_limit : 123
+    monthly_player_profit_limit_enabled : false
+    monthly_player_profit_limit : 789
+    monthly_player_rtp_lower_limit_enabled : false
+    monthly_player_rtp_lower_limit: 7000
+
+
+  "DSG:CNY:nature:400":
+    base_bet : 400
+    sys_rtp_limit_enabled : false
+    sys_rtp_limit : 35000
+    monthly_sys_loss_limit_enabled : false
+    monthly_sys_loss_limit : 800000
+    daily_sys_loss_limit_enabled : false
+    daily_sys_loss_limit : 800000
+    daily_player_profit_limit_enabled : false
+    daily_player_profit_limit : 123
+    monthly_player_profit_limit_enabled : false
+    monthly_player_profit_limit : 789
+    monthly_player_rtp_lower_limit_enabled : false
+    monthly_player_rtp_lower_limit: 7000
+
+
+  "DSG:CNY:nature:500":
+    base_bet : 500
+    sys_rtp_limit_enabled : false
+    sys_rtp_limit : 35000
+    monthly_sys_loss_limit_enabled : false
+    monthly_sys_loss_limit : 1000000
+    daily_sys_loss_limit_enabled : false
+    daily_sys_loss_limit : 1000000
+    daily_player_profit_limit_enabled : false
+    daily_player_profit_limit : 123
+    monthly_player_profit_limit_enabled : false
+    monthly_player_profit_limit : 789
+    monthly_player_rtp_lower_limit_enabled : false
+    monthly_player_rtp_lower_limit: 7000
+
+
+  "DSG:CNY:nature:600":
+    base_bet : 600
+    sys_rtp_limit_enabled : false
+    sys_rtp_limit : 35000
+    monthly_sys_loss_limit_enabled : false
+    monthly_sys_loss_limit : 1200000
+    daily_sys_loss_limit_enabled : false
+    daily_sys_loss_limit : 1200000
+    daily_player_profit_limit_enabled : false
+    daily_player_profit_limit : 123
+    monthly_player_profit_limit_enabled : false
+    monthly_player_profit_limit : 789
+    monthly_player_rtp_lower_limit_enabled : false
+    monthly_player_rtp_lower_limit: 7000
+
+
+  "DSG:CNY:nature:700":
+    base_bet : 700
+    sys_rtp_limit_enabled : false
+    sys_rtp_limit : 35000
+    monthly_sys_loss_limit_enabled : false
+    monthly_sys_loss_limit : 1400000
+    daily_sys_loss_limit_enabled : false
+    daily_sys_loss_limit : 1400000
+    daily_player_profit_limit_enabled : false
+    daily_player_profit_limit : 123
+    monthly_player_profit_limit_enabled : false
+    monthly_player_profit_limit : 789
+    monthly_player_rtp_lower_limit_enabled : false
+    monthly_player_rtp_lower_limit: 7000
+
+
+  "DSG:CNY:nature:800":
+    base_bet : 800
+    sys_rtp_limit_enabled : false
+    sys_rtp_limit : 35000
+    monthly_sys_loss_limit_enabled : false
+    monthly_sys_loss_limit : 1600000
+    daily_sys_loss_limit_enabled : false
+    daily_sys_loss_limit : 1600000
+    daily_player_profit_limit_enabled : false
+    daily_player_profit_limit : 123
+    monthly_player_profit_limit_enabled : false
+    monthly_player_profit_limit : 789
+    monthly_player_rtp_lower_limit_enabled : false
+    monthly_player_rtp_lower_limit: 7000
+
+
+  "DSG:CNY:nature:900":
+    base_bet : 900
+    sys_rtp_limit_enabled : false
+    sys_rtp_limit : 35000
+    monthly_sys_loss_limit_enabled : false
+    monthly_sys_loss_limit : 1800000
+    daily_sys_loss_limit_enabled : false
+    daily_sys_loss_limit : 1800000
+    daily_player_profit_limit_enabled : false
+    daily_player_profit_limit : 123
+    monthly_player_profit_limit_enabled : false
+    monthly_player_profit_limit : 789
+    monthly_player_rtp_lower_limit_enabled : false
+    monthly_player_rtp_lower_limit: 7000
+
+
+  "DSG:CNY:nature:1000":
+    base_bet : 1000
+    sys_rtp_limit_enabled : false
+    sys_rtp_limit : 35000
+    monthly_sys_loss_limit_enabled : false
+    monthly_sys_loss_limit : 2000000
+    daily_sys_loss_limit_enabled : false
+    daily_sys_loss_limit : 2000000
+    daily_player_profit_limit_enabled : false
+    daily_player_profit_limit : 123
+    monthly_player_profit_limit_enabled : false
+    monthly_player_profit_limit : 789
+    monthly_player_rtp_lower_limit_enabled : false
+    monthly_player_rtp_lower_limit: 7000
+
+
+  "DSG:CNY:nature:2000":
+    base_bet : 2000
+    sys_rtp_limit_enabled : false
+    sys_rtp_limit : 35000
+    monthly_sys_loss_limit_enabled : false
+    monthly_sys_loss_limit : 4000000
+    daily_sys_loss_limit_enabled : false
+    daily_sys_loss_limit : 4000000
+    daily_player_profit_limit_enabled : false
+    daily_player_profit_limit : 123
+    monthly_player_profit_limit_enabled : false
+    monthly_player_profit_limit : 789
+    monthly_player_rtp_lower_limit_enabled : false
+    monthly_player_rtp_lower_limit: 7000
+
+
+  "DSG:CNY:nature:3000":
+    base_bet : 3000
+    sys_rtp_limit_enabled : false
+    sys_rtp_limit : 35000
+    monthly_sys_loss_limit_enabled : false
+    monthly_sys_loss_limit : 6000000
+    daily_sys_loss_limit_enabled : false
+    daily_sys_loss_limit : 6000000
+    daily_player_profit_limit_enabled : false
+    daily_player_profit_limit : 123
+    monthly_player_profit_limit_enabled : false
+    monthly_player_profit_limit : 789
+    monthly_player_rtp_lower_limit_enabled : false
+    monthly_player_rtp_lower_limit: 7000
+
+
+  "DSG:CNY:nature:4000":
+    base_bet : 4000
+    sys_rtp_limit_enabled : false
+    sys_rtp_limit : 35000
+    monthly_sys_loss_limit_enabled : false
+    monthly_sys_loss_limit : 8000000
+    daily_sys_loss_limit_enabled : false
+    daily_sys_loss_limit : 8000000
+    daily_player_profit_limit_enabled : false
+    daily_player_profit_limit : 123
+    monthly_player_profit_limit_enabled : false
+    monthly_player_profit_limit : 789
+    monthly_player_rtp_lower_limit_enabled : false
+    monthly_player_rtp_lower_limit: 7000
+
+
+  "DSG:CNY:nature:5000":
+    base_bet : 5000
+    sys_rtp_limit_enabled : false
+    sys_rtp_limit : 35000
+    monthly_sys_loss_limit_enabled : false
+    monthly_sys_loss_limit : 10000000
+    daily_sys_loss_limit_enabled : false
+    daily_sys_loss_limit : 10000000
+    daily_player_profit_limit_enabled : false
+    daily_player_profit_limit : 123
+    monthly_player_profit_limit_enabled : false
+    monthly_player_profit_limit : 789
+    monthly_player_rtp_lower_limit_enabled : false
+    monthly_player_rtp_lower_limit: 7000
+
+
+  "DSG:CNY:nature:6000":
+    base_bet : 6000
+    sys_rtp_limit_enabled : false
+    sys_rtp_limit : 35000
+    monthly_sys_loss_limit_enabled : false
+    monthly_sys_loss_limit : 12000000
+    daily_sys_loss_limit_enabled : false
+    daily_sys_loss_limit : 12000000
+    daily_player_profit_limit_enabled : false
+    daily_player_profit_limit : 123
+    monthly_player_profit_limit_enabled : false
+    monthly_player_profit_limit : 789
+    monthly_player_rtp_lower_limit_enabled : false
+    monthly_player_rtp_lower_limit: 7000
+
+
+  "DSG:CNY:nature:7000":
+    base_bet : 7000
+    sys_rtp_limit_enabled : false
+    sys_rtp_limit : 35000
+    monthly_sys_loss_limit_enabled : false
+    monthly_sys_loss_limit : 14000000
+    daily_sys_loss_limit_enabled : false
+    daily_sys_loss_limit : 14000000
+    daily_player_profit_limit_enabled : false
+    daily_player_profit_limit : 123
+    monthly_player_profit_limit_enabled : false
+    monthly_player_profit_limit : 789
+    monthly_player_rtp_lower_limit_enabled : false
+    monthly_player_rtp_lower_limit: 7000
+
+
+  "DSG:CNY:nature:8000":
+    base_bet : 8000
+    sys_rtp_limit_enabled : false
+    sys_rtp_limit : 35000
+    monthly_sys_loss_limit_enabled : false
+    monthly_sys_loss_limit : 16000000
+    daily_sys_loss_limit_enabled : false
+    daily_sys_loss_limit : 16000000
+    daily_player_profit_limit_enabled : false
+    daily_player_profit_limit : 123
+    monthly_player_profit_limit_enabled : false
+    monthly_player_profit_limit : 789
+    monthly_player_rtp_lower_limit_enabled : false
+    monthly_player_rtp_lower_limit: 7000
+
+
+  "DSG:CNY:nature:9000":
+    base_bet : 9000
+    sys_rtp_limit_enabled : false
+    sys_rtp_limit : 35000
+    monthly_sys_loss_limit_enabled : false
+    monthly_sys_loss_limit : 18000000
+    daily_sys_loss_limit_enabled : false
+    daily_sys_loss_limit : 18000000
+    daily_player_profit_limit_enabled : false
+    daily_player_profit_limit : 123
+    monthly_player_profit_limit_enabled : false
+    monthly_player_profit_limit : 789
+    monthly_player_rtp_lower_limit_enabled : false
+    monthly_player_rtp_lower_limit: 7000
+
+
+  "DSG:CNY:nature:10000":
+    base_bet : 10000
+    sys_rtp_limit_enabled : false
+    sys_rtp_limit : 35000
+    monthly_sys_loss_limit_enabled : false
+    monthly_sys_loss_limit : 20000000
+    daily_sys_loss_limit_enabled : false
+    daily_sys_loss_limit : 20000000
+    daily_player_profit_limit_enabled : false
+    daily_player_profit_limit : 123
+    monthly_player_profit_limit_enabled : false
+    monthly_player_profit_limit : 789
+    monthly_player_rtp_lower_limit_enabled : false
+    monthly_player_rtp_lower_limit: 7000
+
+
+  "DSG:CNY:nature:20000":
+    base_bet : 20000
+    sys_rtp_limit_enabled : false
+    sys_rtp_limit : 35000
+    monthly_sys_loss_limit_enabled : false
+    monthly_sys_loss_limit : 40000000
+    daily_sys_loss_limit_enabled : false
+    daily_sys_loss_limit : 40000000
+    daily_player_profit_limit_enabled : false
+    daily_player_profit_limit : 123
+    monthly_player_profit_limit_enabled : false
+    monthly_player_profit_limit : 789
+    monthly_player_rtp_lower_limit_enabled : false
+    monthly_player_rtp_lower_limit: 7000
+
+
+  "DSG:CNY:nature:30000":
+    base_bet : 30000
+    sys_rtp_limit_enabled : false
+    sys_rtp_limit : 35000
+    monthly_sys_loss_limit_enabled : false
+    monthly_sys_loss_limit : 60000000
+    daily_sys_loss_limit_enabled : false
+    daily_sys_loss_limit : 60000000
+    daily_player_profit_limit_enabled : false
+    daily_player_profit_limit : 123
+    monthly_player_profit_limit_enabled : false
+    monthly_player_profit_limit : 789
+    monthly_player_rtp_lower_limit_enabled : false
+    monthly_player_rtp_lower_limit: 7000
+
+
+  "DSG:CNY:nature:40000":
+    base_bet : 40000
+    sys_rtp_limit_enabled : false
+    sys_rtp_limit : 35000
+    monthly_sys_loss_limit_enabled : false
+    monthly_sys_loss_limit : 80000000
+    daily_sys_loss_limit_enabled : false
+    daily_sys_loss_limit : 80000000
+    daily_player_profit_limit_enabled : false
+    daily_player_profit_limit : 123
+    monthly_player_profit_limit_enabled : false
+    monthly_player_profit_limit : 789
+    monthly_player_rtp_lower_limit_enabled : false
+    monthly_player_rtp_lower_limit: 7000
+
+
+  "DSG:CNY:nature:50000":
+    base_bet : 50000
+    sys_rtp_limit_enabled : false
+    sys_rtp_limit : 35000
+    monthly_sys_loss_limit_enabled : false
+    monthly_sys_loss_limit : 100000000
+    daily_sys_loss_limit_enabled : false
+    daily_sys_loss_limit : 100000000
+    daily_player_profit_limit_enabled : false
+    daily_player_profit_limit : 123
+    monthly_player_profit_limit_enabled : false
+    monthly_player_profit_limit : 789
+    monthly_player_rtp_lower_limit_enabled : false
+    monthly_player_rtp_lower_limit: 7000
+
+
+  "DSG:CNY:nature:60000":
+    base_bet : 60000
+    sys_rtp_limit_enabled : false
+    sys_rtp_limit : 35000
+    monthly_sys_loss_limit_enabled : false
+    monthly_sys_loss_limit : 120000000
+    daily_sys_loss_limit_enabled : false
+    daily_sys_loss_limit : 120000000
+    daily_player_profit_limit_enabled : false
+    daily_player_profit_limit : 123
+    monthly_player_profit_limit_enabled : false
+    monthly_player_profit_limit : 789
+    monthly_player_rtp_lower_limit_enabled : false
+    monthly_player_rtp_lower_limit: 7000
+
+
+  "DSG:CNY:nature:70000":
+    base_bet : 70000
+    sys_rtp_limit_enabled : false
+    sys_rtp_limit : 35000
+    monthly_sys_loss_limit_enabled : false
+    monthly_sys_loss_limit : 140000000
+    daily_sys_loss_limit_enabled : false
+    daily_sys_loss_limit : 140000000
+    daily_player_profit_limit_enabled : false
+    daily_player_profit_limit : 123
+    monthly_player_profit_limit_enabled : false
+    monthly_player_profit_limit : 789
+    monthly_player_rtp_lower_limit_enabled : false
+    monthly_player_rtp_lower_limit: 7000
+
+
+  "DSG:CNY:nature:80000":
+    base_bet : 80000
+    sys_rtp_limit_enabled : false
+    sys_rtp_limit : 35000
+    monthly_sys_loss_limit_enabled : false
+    monthly_sys_loss_limit : 160000000
+    daily_sys_loss_limit_enabled : false
+    daily_sys_loss_limit : 160000000
+    daily_player_profit_limit_enabled : false
+    daily_player_profit_limit : 123
+    monthly_player_profit_limit_enabled : false
+    monthly_player_profit_limit : 789
+    monthly_player_rtp_lower_limit_enabled : false
+    monthly_player_rtp_lower_limit: 7000
+
+
+  "DSG:CNY:nature:90000":
+    base_bet : 90000
+    sys_rtp_limit_enabled : false
+    sys_rtp_limit : 35000
+    monthly_sys_loss_limit_enabled : false
+    monthly_sys_loss_limit : 180000000
+    daily_sys_loss_limit_enabled : false
+    daily_sys_loss_limit : 180000000
+    daily_player_profit_limit_enabled : false
+    daily_player_profit_limit : 123
+    monthly_player_profit_limit_enabled : false
+    monthly_player_profit_limit : 789
+    monthly_player_rtp_lower_limit_enabled : false
+    monthly_player_rtp_lower_limit: 7000
+
+
+  "DSG:CNY:nature:100000":
+    base_bet : 100000
+    sys_rtp_limit_enabled : false
+    sys_rtp_limit : 35000
+    monthly_sys_loss_limit_enabled : false
+    monthly_sys_loss_limit : 200000000
+    daily_sys_loss_limit_enabled : false
+    daily_sys_loss_limit : 200000000
+    daily_player_profit_limit_enabled : false
+    daily_player_profit_limit : 123
+    monthly_player_profit_limit_enabled : false
+    monthly_player_profit_limit : 789
+    monthly_player_rtp_lower_limit_enabled : false
+    monthly_player_rtp_lower_limit: 7000
+
+
+
+

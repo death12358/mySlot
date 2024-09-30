@@ -1,0 +1,73 @@
+package main
+
+type BetInfoStorage int
+
+const (
+	LocalStorage BetInfoStorage = iota
+	RedisStorage
+)
+
+type Setting struct {
+	HttpAddr string `yaml:"httpaddr"`
+	WsAddr   string `yaml:"wsaddr"`
+	WsPath   string `yaml:"wspath"`
+	Db       struct {
+		Redis struct {
+			Game struct {
+				Host             string `yaml:"host"`
+				Port             int    `yaml:"port"`
+				Password         string `yaml:"password"`
+				Db               int    `yaml:"db"`
+				PoolSize         int    `yaml:"poolsize"`
+				ScriptDefinition string `yaml:"scriptdefinition"`
+			} `yaml:"game"`
+			Math struct {
+				Host             string `yaml:"host"`
+				Port             int    `yaml:"port"`
+				Password         string `yaml:"password"`
+				Db               int    `yaml:"db"`
+				PoolSize         int    `yaml:"poolsize"`
+				ScriptDefinition string `yaml:"scriptdefinition"`
+			} `yaml:"math"`
+			Wallet struct {
+				Host             string `yaml:"host"`
+				Port             int    `yaml:"port"`
+				Password         string `yaml:"password"`
+				Db               int    `yaml:"db"`
+				PoolSize         int    `yaml:"poolsize"`
+				ScriptDefinition string `yaml:"scriptdefinition"`
+			} `yaml:"wallet"`
+		} `yaml:"redis"`
+	} `yaml:"db"`
+	Mq struct {
+		Kafka struct {
+			Host []string `yaml:"host"`
+		} `yaml:"kafka"`
+		Nsq struct {
+			NSQLookups []string `yaml:"nsqlookups"`
+			NSQDs      []string `yaml:"nsqds"`
+			NSQD       string   `yaml:"nsqd"`
+		} `yaml:"nsq"`
+		Rmq struct {
+			Nameservers []string `yaml:"nameservers"`
+		} `yaml:"rmq"`
+	} `yaml:"mq"`
+	Api struct {
+		PlayerService string `yaml:"playerservice"`
+		TxService     string `yaml:"txservice"`
+		WalletService string `yaml:"walletservice"`
+		CRMService    string `yaml:"crmservice"`
+	} `yaml:"api"`
+	Rooms              []string       `yaml:"rooms"`
+	Robots             int32          `yaml:"robots"`
+	BetZoneInfoStorage BetInfoStorage `yaml:"betZoneInfoStorage"`
+}
+
+type Room struct {
+	Key   string `yaml:"key"`
+	Value string `yaml:"value"`
+}
+
+type RoomsSetting struct {
+	Rooms []Room `yaml:"rooms"`
+}
