@@ -27,7 +27,7 @@ var opt = gamelogic.RedisOption{
 
 var bet int32 = 10000
 
-var mock_game gamelogic.IGameSrc
+var mock_game gamelogic.Games
 var err error
 
 func init() {
